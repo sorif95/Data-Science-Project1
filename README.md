@@ -24,6 +24,6 @@ This repository also includes an **assignment** where students analyze survival 
 
 ---
 
-🔗 **Live Notebook:** [\[Google Colab Link (if applicable)\]  ](https://colab.research.google.com/drive/1FXf9riXPITCk_pXkrYScKmuYiqjSbvO9?usp=sharing)
+🔗 **Live Notebook:** https://colab.research.google.com/drive/1FXf9riXPITCk_pXkrYScKmuYiqjSbvO9?usp=sharing
 📂 **Dataset:** [Titanic Dataset (Kaggle)]  
 📌 **Created By:** Md Shoriful Alam
