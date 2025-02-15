@@ -73,8 +73,6 @@ The goal of this project is to:
 ## 📄 Assignment Details
 This repository also includes an **assignment** where students analyze survival trends and answer key questions.
 
----
-
 🔗 **Live Notebook:** (https://colab.research.google.com/drive/1FXf9riXPITCk_pXkrYScKmuYiqjSbvO9?usp=sharing)
 📂 **Dataset:** [Titanic Dataset (Kaggle)]  
 📌 **Created By:** Md Shoriful Alam
